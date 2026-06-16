@@ -2,8 +2,6 @@
 
 Um projeto de front-end estático simulando um portal de notícias moderno e organizado. Desenvolvido para aplicar e consolidar conceitos de marcação semântica e estilização web.
 
-![Demonstração do Projeto]()
-
 ## Sobre o Projeto
 
 O **Notícias Cidade** é uma página web fictícia que apresenta uma interface clássica de portal de informações. O projeto foca em uma estrutura de navegação clara, dividida por categorias como Brasil, Internacional, Economia, Saúde e Ciências, além de destacar artigos com imagens e chamadas atraentes, como a seção de "Natureza".
