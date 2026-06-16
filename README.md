@@ -25,6 +25,6 @@ Este projeto foi construído utilizando as seguintes tecnologias básicas da web
 
 O projeto está hospedado no **GitHub Pages** e pode ser acessado por qualquer pessoa através do navegador.
 
-👉 **[Clique aqui para ver o site no ar]**
+👉 **[Clique aqui para ver o site no ar]https://vivimdrs.github.io/Noticias-Cidade/**
 
 
